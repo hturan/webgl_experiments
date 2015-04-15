@@ -1,0 +1,16 @@
+{
+  "name": "clouds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SkyShader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^1.3.5",
+    "twit": "^1.1.20",
+    "ws": "^0.7.1"
+  }
+}
